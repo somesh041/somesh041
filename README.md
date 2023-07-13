@@ -1,17 +1,21 @@
-<div align="center">
-<img src="header.png" align="center" height="" width="" />
-</div>  
-  
+# Hi there 👋
 
-### <div align="center">I'm Somesh, a Data Enthusiast</div>  
-  
+## I'm, Somesh Swami Hiremath 
+**Data Scientist | Data Analyst| AI Researcher | Artificial Intelligence (AI) | Deep Learning| Computer Vision| Data Science| Big
+Data| Machine Learning| NLP| MySQL| Power BI| Tableau| Statistics| AWS| Academic Scholar🏆**
 
-- 🔭 I’m currently working on **NLP**  
-  
+- 🔭 I’m currently working on **Deep Learning, ML, Data Analytics & Data Science Projects**
+- 🌱 I’m currently learning **NLP, Computer Vision**
+- 👯 I’m looking to collaborate on **Open Source Machine Learning Projects**
+- 🤔 I’m looking for help with **MNCs's Opportunity in Data Science Domain as Data Scientist and Data Analyst**
+- 💬 Ask me about Data Science
+- 📫 How to reach me: <a href='(https://www.linkedin.com/in/somesh-swami-hiremath/)' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/SOMESH-100000?style=plastic&logo=Linkedin&logoColor=4DA9E7&labelColor=black&color=black'/></a>
+- 😄 Pronouns: **Somesh**
+- ⚡ Fun fact: **Learn and Enjoy each day of life!!**
+- 🎯 My Speciality: **I love to create insights and play with numbers 🔢**
 
-- ❓ Ask me about anything related to Statistics, ML  
-  
 
+***Thank you for visiting my profile.***
 <br/>  
 
 
