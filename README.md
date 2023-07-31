@@ -78,7 +78,7 @@ Data| Machine Learning| NLP| MySQL| Power BI| Tableau| Statistics| AWS| Academic
 ## Github Stats  
 ![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=somesh041&show_icons=true&theme=radical)
 <br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh041&layout=compact&langs_count=10&theme=highcontrast)](https://github.com/somesh041)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh041&layout=compact&langs_count=20&theme=highcontrast)](https://github.com/somesh041)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=somesh041&&style=flat-square" align="center" />
